@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/saiteja/static/css/main.2f0f1a56.css",
-    "main.js": "/saiteja/static/js/main.60296aff.js",
+    "main.js": "/saiteja/static/js/main.edae9b8d.js",
     "static/js/787.da1b977b.chunk.js": "/saiteja/static/js/787.da1b977b.chunk.js",
     "static/media/saiteja_pic4.png": "/saiteja/static/media/saiteja_pic4.8c942af4842a1ec73781.png",
     "static/media/saiteja_pic3.png": "/saiteja/static/media/saiteja_pic3.605115628dde9445df15.png",
     "index.html": "/saiteja/index.html",
     "main.2f0f1a56.css.map": "/saiteja/static/css/main.2f0f1a56.css.map",
-    "main.60296aff.js.map": "/saiteja/static/js/main.60296aff.js.map",
+    "main.edae9b8d.js.map": "/saiteja/static/js/main.edae9b8d.js.map",
     "787.da1b977b.chunk.js.map": "/saiteja/static/js/787.da1b977b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f0f1a56.css",
-    "static/js/main.60296aff.js"
+    "static/js/main.edae9b8d.js"
   ]
 }
